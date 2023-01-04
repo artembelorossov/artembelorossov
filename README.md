@@ -3,9 +3,9 @@
 </div>
 
 <!--
-##Всем привет, Меня зовут Артем!
+<h1> Всем привет, меня зовут Артем </h1>
 **artembelorossov/artembelorossov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Всем привет, Меня зовут Артем!
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
