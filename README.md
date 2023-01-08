@@ -13,3 +13,10 @@
 
 SQL, API, REST/SOAP, Postman, Git, Bash, HTML, CSS
 
+### 📖 Приверы тестовой докмуентации:
+[Тест-кейсы.]
+
+[Чек-листы.]
+
+[Баг-репорты.](https://github.com/artembelorossov/Bug-report.git)
+
