@@ -16,7 +16,7 @@ SQL, API, REST/SOAP, Postman, Git, Bash, Python, Bugzilla
 ### 📖 Примеры тестовой докмуентации:
 [Тест-кейсы]
 
-[Тест-план]
+[Тест-план](https://github.com/artembelorossov/Test-plan/tree/main)
 
 [Баг-репорты](https://github.com/artembelorossov/Bug-report.git)
 
