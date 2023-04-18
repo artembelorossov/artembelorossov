@@ -20,6 +20,6 @@ SQL, API, REST/SOAP, Postman, Git, Bash, HTML, CSS
 
 [Баг-репорты.](https://github.com/artembelorossov/Bug-report.git)
 
-### Примеры автоматизации
+### Примеры автоматизации:
 
 [Автоматизация Python]
