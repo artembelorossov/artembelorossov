@@ -22,4 +22,4 @@ SQL, API, REST/SOAP, Postman, Git, Bash, HTML, CSS
 
 ### Примеры автоматизации
 
-[Автоматизация]
+[Автоматизация Python]
