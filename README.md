@@ -14,11 +14,11 @@
 SQL, API, REST/SOAP, Postman, Git, Bash, Python, Bugzilla
 
 ### 📖 Примеры тестовой докмуентации:
-[Тест-кейсы.]
+[Тест-кейсы]
 
-[Чек-листы.]
+[Тест-план]
 
-[Баг-репорты.](https://github.com/artembelorossov/Bug-report.git)
+[Баг-репорты](https://github.com/artembelorossov/Bug-report.git)
 
 ### Примеры автоматизации:
 
