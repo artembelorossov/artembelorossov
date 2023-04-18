@@ -11,7 +11,7 @@
 
 ### 🔨 Мой стек:
 
-SQL, API, REST/SOAP, Postman, Git, Bash, HTML, CSS
+SQL, API, REST/SOAP, Postman, Git, Bash, Python, Bugzilla
 
 ### 📖 Примеры тестовой докмуентации:
 [Тест-кейсы.]
