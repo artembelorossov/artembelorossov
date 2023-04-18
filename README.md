@@ -11,7 +11,7 @@
 
 ### 🔨 Мой стек:
 
-SQL, API, REST/SOAP, Postman, Git, Bash, Python, Bugzilla
+SQL, API, REST/SOAP, Postman, Git, Bash, Python(pytest, pywinauto), Bugzilla, Sphinx, Redmine
 
 ### 📖 Примеры тестовой докмуентации:
 [Тест-кейсы](https://github.com/artembelorossov/Test-Case)
