@@ -22,4 +22,4 @@ SQL, API, REST/SOAP, Postman, Git, Bash, HTML, CSS
 
 ### Примеры автоматизации:
 
-[Автоматизация Python]
+[Автоматизация Python](https://github.com/artembelorossov/Auto-testing-python)
